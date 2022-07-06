@@ -1,0 +1,44 @@
+html{
+  font-style: italic
+  }
+
+  body{
+    text-align: center;
+    font-family:'roboto', sans-serife;
+  }
+   a{
+  height: 53px;
+  display: flex;
+    text-decoration: none;
+    margin: 22px;
+    align-items: center;
+    justify-content: center;
+    color: black;
+    text-transform: uppercase;
+  background-color: yellow;
+  font-size: 14px;
+  
+  margin-bottom: 16px;
+  border-radius: 6px;
+  transition: background 400ns;;
+    }
+    a:hover{
+      background-color: black;
+    }
+  div{
+    background-color:black;
+  color: yellow;
+  text-align: center;
+  color: yellow;
+   padding: 16px;
+  
+   border-width: 20px;
+  }
+  img{
+    border-radius: 50%;
+    border: 1px blue solid;
+  }
+  footer{
+    font-weight: 900;
+  
+  }
